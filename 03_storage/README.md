@@ -13,4 +13,7 @@ Mục đích sử dụng:
 - Đưa các file config, source code từ docker host vào container
 - ...
 
-Tham khảo thêm tài liệu <https://docs.docker.com/storage/>
+Tham khảo thêm tài liệu:
+
+- <https://docs.docker.com/storage/>
+- <https://docs.docker.com/engine/reference/commandline/volume/>
